@@ -45,7 +45,7 @@
     margin-bottom: 47px;
   }
 }.u-section-2 .u-sheet-1 {
-  min-height: 1275px;
+  min-height: 1761px;
 }
 
 .u-section-2 .u-accordion-1 {
@@ -272,7 +272,7 @@
 }
 
 .u-section-2 .u-categories-1 {
-  margin: 44px auto 0 70px;
+  margin: 50px auto 0 70px;
 }
 
 .u-section-2 .u-categories-item-content-1 {
@@ -300,15 +300,15 @@
 }
 
 .u-section-2 .u-products-1 {
-  margin-top: 20px;
-  margin-bottom: 50px;
+  margin-top: 70px;
+  margin-bottom: 60px;
 }
 
 .u-section-2 .u-repeater-1 {
   grid-template-columns: repeat(3, 33.3333%);
-  min-height: 525px;
-  grid-auto-columns: 33.3333%;
+  min-height: 462px;
   --gap: 0px;
+  grid-auto-columns: 33.3333%;
 }
 
 .u-section-2 .u-container-layout-15 {
@@ -322,7 +322,11 @@
 }
 
 .u-section-2 .u-text-9 {
-  margin: 20px auto 0;
+  margin: 23px auto 0;
+}
+
+.u-section-2 .u-text-10 {
+  margin: 27px auto 0;
 }
 
 .u-section-2 .u-container-layout-16 {
@@ -335,8 +339,12 @@
   margin-bottom: 0;
 }
 
-.u-section-2 .u-text-10 {
-  margin: 20px auto 0;
+.u-section-2 .u-text-11 {
+  margin: 23px auto 0;
+}
+
+.u-section-2 .u-text-12 {
+  margin: 27px auto 0;
 }
 
 .u-section-2 .u-container-layout-17 {
@@ -349,22 +357,12 @@
   margin-bottom: 0;
 }
 
-.u-section-2 .u-text-11 {
-  margin: 20px auto 0;
+.u-section-2 .u-text-13 {
+  margin: 23px auto 0;
 }
 
-.u-section-2 .u-gallery-nav-1 {
-  position: absolute;
-  left: 10px;
-  width: 40px;
-  height: 40px;
-}
-
-.u-section-2 .u-gallery-nav-2 {
-  position: absolute;
-  right: 10px;
-  width: 40px;
-  height: 40px;
+.u-section-2 .u-text-14 {
+  margin: 27px auto 0;
 }
 
 @media (max-width: 1199px) {
@@ -475,6 +473,7 @@
     grid-template-columns: repeat(3, 33.333333333333336%);
     grid-auto-columns: 33.333333333333336%;
     grid-gap: 0px;
+    min-height: 381px;
   }
 }
 
@@ -558,6 +557,7 @@
   .u-section-2 .u-repeater-1 {
     grid-template-columns: repeat(2, 50%);
     grid-auto-columns: 50%;
+    min-height: 875px;
   }
 }
 
@@ -704,6 +704,10 @@
 
   .u-section-2 .u-layout-cell-11 {
     min-height: 128px;
+  }
+
+  .u-section-2 .u-products-1 {
+    margin-top: 112px;
   }
 }.u-section-3 .u-sheet-1 {
   min-height: 714px;
