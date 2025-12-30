@@ -450,7 +450,7 @@
 
 .u-section-3 .u-image-1 {
   min-height: 373px;
-  background-image: url("images/1.png");
+  background-image: url("images/holodets.jpg");
   background-position: 50% 50%;
   background-size: cover;
 }
@@ -508,7 +508,7 @@
 .u-section-3 .u-image-3 {
   width: 293px;
   height: 235px;
-  margin: -80px auto 0 0;
+  margin: -79px auto 0 0;
 }
 
 @media (max-width: 1199px) {
@@ -1200,8 +1200,8 @@
 
 .u-section-6 .u-list-1 {
   grid-template-rows: repeat(2, auto);
-  margin-top: 90px;
-  margin-bottom: 57px;
+  margin-top: 85px;
+  margin-bottom: 60px;
 }
 
 .u-section-6 .u-repeater-1 {
@@ -1221,16 +1221,15 @@
 
 .u-section-6 .u-image-1 {
   width: 419px;
-  left: 0;
-  right: auto;
-  top: 0;
+  height: 308px;
+  margin: -9px auto 0 0;
 }
 
 .u-section-6 .u-group-1 {
   width: 643px;
   min-height: 308px;
   height: auto;
-  margin: 0 0 0 467px;
+  margin: -299px 0 0 467px;
 }
 
 .u-section-6 .u-container-layout-2 {
@@ -1268,16 +1267,15 @@
 
 .u-section-6 .u-image-2 {
   width: 419px;
-  left: 0;
-  right: auto;
-  top: 0;
+  height: 308px;
+  margin: -9px auto 0 0;
 }
 
 .u-section-6 .u-group-2 {
   width: 643px;
   min-height: 308px;
   height: auto;
-  margin: 0 0 0 467px;
+  margin: -299px 0 0 467px;
 }
 
 .u-section-6 .u-container-layout-4 {
@@ -1315,16 +1313,15 @@
 
 .u-section-6 .u-image-3 {
   width: 419px;
-  left: 0;
-  right: auto;
-  top: 0;
+  height: 308px;
+  margin: -9px auto 0 0;
 }
 
 .u-section-6 .u-group-3 {
   width: 643px;
   min-height: 308px;
   height: auto;
-  margin: 0 0 0 467px;
+  margin: -299px 0 0 467px;
 }
 
 .u-section-6 .u-container-layout-6 {
@@ -1358,14 +1355,6 @@
     grid-gap: 62px;
   }
 
-  .u-section-6 .u-image-1 {
-    height: 308px;
-    left: auto;
-    bottom: auto;
-    right: auto;
-    top: auto;
-  }
-
   .u-section-6 .u-group-1 {
     width: 446px;
     margin-top: -308px;
@@ -1373,27 +1362,11 @@
     height: auto;
   }
 
-  .u-section-6 .u-image-2 {
-    height: 308px;
-    left: auto;
-    bottom: auto;
-    right: auto;
-    top: auto;
-  }
-
   .u-section-6 .u-group-2 {
     width: 446px;
     margin-top: -308px;
     margin-left: 464px;
     height: auto;
-  }
-
-  .u-section-6 .u-image-3 {
-    height: 308px;
-    left: auto;
-    bottom: auto;
-    right: auto;
-    top: auto;
   }
 
   .u-section-6 .u-group-3 {
@@ -1407,6 +1380,8 @@
 @media (max-width: 991px) {
   .u-section-6 .u-image-1 {
     height: 468px;
+    margin-right: initial;
+    margin-left: initial;
     width: auto;
   }
 
@@ -1422,6 +1397,8 @@
 
   .u-section-6 .u-image-2 {
     height: 468px;
+    margin-right: initial;
+    margin-left: initial;
     width: auto;
   }
 
@@ -1437,6 +1414,8 @@
 
   .u-section-6 .u-image-3 {
     height: 468px;
+    margin-right: initial;
+    margin-left: initial;
     width: auto;
   }
 
@@ -1459,6 +1438,8 @@
   .u-section-6 .u-image-1 {
     height: 359px;
     width: auto;
+    margin-right: initial;
+    margin-left: initial;
   }
 
   .u-section-6 .u-group-1 {
@@ -1479,6 +1460,8 @@
   .u-section-6 .u-image-2 {
     height: 359px;
     width: auto;
+    margin-right: initial;
+    margin-left: initial;
   }
 
   .u-section-6 .u-group-2 {
@@ -1499,6 +1482,8 @@
   .u-section-6 .u-image-3 {
     height: 359px;
     width: auto;
+    margin-right: initial;
+    margin-left: initial;
   }
 
   .u-section-6 .u-group-3 {
@@ -1517,6 +1502,8 @@
   .u-section-6 .u-image-1 {
     height: 224px;
     width: auto;
+    margin-right: initial;
+    margin-left: initial;
   }
 
   .u-section-6 .u-text-1 {
@@ -1531,6 +1518,8 @@
   .u-section-6 .u-image-2 {
     height: 224px;
     width: auto;
+    margin-right: initial;
+    margin-left: initial;
   }
 
   .u-section-6 .u-text-3 {
@@ -1545,6 +1534,8 @@
   .u-section-6 .u-image-3 {
     height: 224px;
     width: auto;
+    margin-right: initial;
+    margin-left: initial;
   }
 
   .u-section-6 .u-text-5 {
@@ -1560,13 +1551,13 @@
 }
 
 .u-section-7 .u-layout-wrap-1 {
-  margin-top: 60px;
+  margin-top: 40px;
   margin-bottom: 60px;
 }
 
 .u-section-7 .u-image-1 {
   min-height: 882px;
-  background-image: url("images/shchi.jpg");
+  background-image: url("images/shi.jpg");
   background-position: 50% 50%;
 }
 
