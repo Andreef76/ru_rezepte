@@ -439,7 +439,11 @@
     width: auto;
     margin-top: 21px;
   }
-}.u-section-3 .u-sheet-1 {
+} .u-section-3 {
+  background-image: url("images/default-image.jpg");
+}
+
+.u-section-3 .u-sheet-1 {
   min-height: 748px;
 }
 
