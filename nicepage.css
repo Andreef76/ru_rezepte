@@ -46466,8 +46466,7 @@ a.u-link.u-text-hover-color-var:hover {
 }
 
 .u-header .u-nav-1 {
-  font-size: 1rem;
-  letter-spacing: normal;
+  font-size: 1.125rem;
 }
 
 .u-header .u-nav-2 {
@@ -46488,6 +46487,10 @@ a.u-link.u-text-hover-color-var:hover {
 @media (max-width: 1199px) {
   .u-header .u-menu-1 {
     margin-right: 11px;
+  }
+
+  .u-header .u-nav-1 {
+    letter-spacing: normal;
   }
 
   .u-header .u-image-1 {
