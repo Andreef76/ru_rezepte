@@ -5,15 +5,15 @@
 }
 
 .u-section-1 .u-product-1 {
-  min-height: 1381px;
+  min-height: 1497px;
   height: auto;
   background-image: linear-gradient(#ffe7c7, #f5faf5);
-  width: 916px;
-  margin: 53px auto 60px;
+  width: 922px;
+  margin: 50px auto 60px;
 }
 
 .u-section-1 .u-container-layout-1 {
-  padding: 0;
+  padding: 0 0 1px;
 }
 
 .u-section-1 .u-gallery-1 {
@@ -125,7 +125,7 @@
   }
 
   .u-section-1 .u-text-1 {
-    margin-left: 336px;
+    margin-left: 330px;
   }
 
   .u-section-1 .u-text-2 {
@@ -148,7 +148,7 @@
 
   .u-section-1 .u-text-1 {
     margin-top: -347px;
-    margin-left: 156px;
+    margin-left: 150px;
   }
 
   .u-section-1 .u-text-2 {

@@ -46527,33 +46527,36 @@ a.u-link.u-text-hover-color-var:hover {
 
  .u-footer {
   background-image: none;
-  min-height: 96px;
+}
+
+.u-footer .u-sheet-1 {
+  min-height: 153px;
 }
 
 .u-footer .u-text-1 {
   font-size: 0.625rem;
-  margin: 0 calc(((100% - 1140px) / 2)  + 509px) 16px 0;
+  margin: 57px 318px 16px -30px;
 }
 @media (max-width: 1199px) {
+   .u-footer {
+    min-height: 96px;
+  }
+
   .u-footer .u-text-1 {
     width: 417px;
-    margin-right: calc(((100% - 940px) / 2) + 309px);
+    margin-right: 118px;
   }
 }
 @media (max-width: 991px) {
   .u-footer .u-text-1 {
-    margin-right: calc(((100% - 720px) / 2) + 89px);
+    margin-left: 0;
+    margin-right: 0;
   }
 }
-@media (max-width: 767px) {
-  .u-footer .u-text-1 {
-    margin-right: calc(((100% - 540px) / 2));
-  }
-}
+
 @media (max-width: 575px) {
   .u-footer .u-text-1 {
     width: 340px;
-    margin-right: calc(((100% - 340px) / 2));
   }
 }
 
