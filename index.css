@@ -738,18 +738,21 @@
 }
 
 @media (max-width: 575px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 2625px;
+  }
+
   .u-section-3 .u-group-elements-1 {
     margin-left: 42px;
   }
 }.u-section-4 .u-sheet-1 {
-  min-height: 1418px;
+  min-height: 1604px;
 }
 
 .u-section-4 .u-tabs-1 {
-  min-height: 477px;
-  margin-top: 24px;
-  margin-bottom: 0;
+  min-height: 488px;
   height: auto;
+  margin: 148px 0 0;
 }
 
 .u-section-4 .u-tab-pane-1 {
@@ -763,7 +766,7 @@
 
 .u-section-4 .u-layout-wrap-1 {
   width: 1140px;
-  margin: 50px auto -121px -3px;
+  margin: 57px 3px -121px -3px;
 }
 
 .u-section-4 .u-layout-cell-1 {
@@ -937,7 +940,7 @@
 
 .u-section-4 .u-layout-wrap-2 {
   width: 1120px;
-  margin: 92px auto 60px;
+  margin: 213px auto 60px;
 }
 
 .u-section-4 .u-image-1 {
@@ -980,8 +983,14 @@
     min-height: 770px;
   }
 
+  .u-section-4 .u-tabs-1 {
+    margin-right: initial;
+    margin-left: initial;
+  }
+
   .u-section-4 .u-layout-wrap-1 {
     width: 940px;
+    margin-right: 0;
     margin-left: 0;
   }
 
@@ -1008,7 +1017,13 @@
 
 @media (max-width: 991px) {
   .u-section-4 .u-sheet-1 {
-    min-height: 600px;
+    min-height: 1198px;
+  }
+
+  .u-section-4 .u-tabs-1 {
+    margin-top: 40px;
+    margin-right: initial;
+    margin-left: initial;
   }
 
   .u-section-4 .u-layout-wrap-1 {
@@ -1025,6 +1040,9 @@
 
   .u-section-4 .u-layout-wrap-2 {
     width: 720px;
+    margin-top: 8px;
+    margin-left: 0;
+    margin-right: 0;
   }
 
   .u-section-4 .u-image-1 {
@@ -1093,7 +1111,14 @@
 
 @media (max-width: 575px) {
   .u-section-4 .u-sheet-1 {
-    min-height: 736px;
+    min-height: 1381px;
+  }
+
+  .u-section-4 .u-tabs-1 {
+    min-height: 559px;
+    margin-top: 1px;
+    margin-right: initial;
+    margin-left: initial;
   }
 
   .u-section-4 .u-layout-wrap-1 {
@@ -1110,10 +1135,16 @@
 
   .u-section-4 .u-layout-wrap-2 {
     width: 340px;
+    margin-top: 101px;
+    margin-bottom: 27px;
   }
 
   .u-section-4 .u-image-1 {
     min-height: 441px;
+  }
+
+  .u-section-4 .u-layout-cell-4 {
+    min-height: 283px;
   }
 
   .u-section-4 .u-container-layout-7 {
